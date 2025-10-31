@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\Dotnet\\StarWars\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19E05F7B-B355-4974-BD40-05B3764671E9}|Backend.Application\\Backend.Application.csproj|c:\\users\\pc\\desktop\\dotnet\\starwars\\backend\\backend.application\\features\\person\\requests\\queries\\getpersonlistrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E05F7B-B355-4974-BD40-05B3764671E9}|Backend.Application\\Backend.Application.csproj|solutionrelative:backend.application\\features\\person\\requests\\queries\\getpersonlistrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E05F7B-B355-4974-BD40-05B3764671E9}|Backend.Application\\Backend.Application.csproj|c:\\users\\pc\\desktop\\dotnet\\starwars\\backend\\backend.application\\features\\person\\handlers\\queries\\getpersondetailrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E05F7B-B355-4974-BD40-05B3764671E9}|Backend.Application\\Backend.Application.csproj|solutionrelative:backend.application\\features\\person\\handlers\\queries\\getpersondetailrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E05F7B-B355-4974-BD40-05B3764671E9}|Backend.Application\\Backend.Application.csproj|c:\\users\\pc\\desktop\\dotnet\\starwars\\backend\\backend.application\\features\\person\\requests\\queries\\getpersondetailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E05F7B-B355-4974-BD40-05B3764671E9}|Backend.Application\\Backend.Application.csproj|solutionrelative:backend.application\\features\\person\\requests\\queries\\getpersondetailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E05F7B-B355-4974-BD40-05B3764671E9}|Backend.Application\\Backend.Application.csproj|c:\\users\\pc\\desktop\\dotnet\\starwars\\backend\\backend.application\\features\\person\\handlers\\queries\\getpersonrequestlisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E05F7B-B355-4974-BD40-05B3764671E9}|Backend.Application\\Backend.Application.csproj|solutionrelative:backend.application\\features\\person\\handlers\\queries\\getpersonrequestlisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED4A260-AC33-4235-8ED8-3D5FE5D71722}|Backend.Domain\\Backend.Domain.csproj|c:\\users\\pc\\desktop\\dotnet\\starwars\\backend\\backend.domain\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED4A260-AC33-4235-8ED8-3D5FE5D71722}|Backend.Domain\\Backend.Domain.csproj|solutionrelative:backend.domain\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E05F7B-B355-4974-BD40-05B3764671E9}|Backend.Application\\Backend.Application.csproj|c:\\users\\pc\\desktop\\dotnet\\starwars\\backend\\backend.application\\applicationservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E05F7B-B355-4974-BD40-05B3764671E9}|Backend.Application\\Backend.Application.csproj|solutionrelative:backend.application\\applicationservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E05F7B-B355-4974-BD40-05B3764671E9}|Backend.Application\\Backend.Application.csproj|c:\\users\\pc\\desktop\\dotnet\\starwars\\backend\\backend.application\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E05F7B-B355-4974-BD40-05B3764671E9}|Backend.Application\\Backend.Application.csproj|solutionrelative:backend.application\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E05F7B-B355-4974-BD40-05B3764671E9}|Backend.Application\\Backend.Application.csproj|c:\\users\\pc\\desktop\\dotnet\\starwars\\backend\\backend.application\\dtos\\filmdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E05F7B-B355-4974-BD40-05B3764671E9}|Backend.Application\\Backend.Application.csproj|solutionrelative:backend.application\\dtos\\filmdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E05F7B-B355-4974-BD40-05B3764671E9}|Backend.Application\\Backend.Application.csproj|c:\\users\\pc\\desktop\\dotnet\\starwars\\backend\\backend.application\\dtos\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E05F7B-B355-4974-BD40-05B3764671E9}|Backend.Application\\Backend.Application.csproj|solutionrelative:backend.application\\dtos\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E05F7B-B355-4974-BD40-05B3764671E9}|Backend.Application\\Backend.Application.csproj|c:\\users\\pc\\desktop\\dotnet\\starwars\\backend\\backend.application\\dtos\\planetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E05F7B-B355-4974-BD40-05B3764671E9}|Backend.Application\\Backend.Application.csproj|solutionrelative:backend.application\\dtos\\planetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E05F7B-B355-4974-BD40-05B3764671E9}|Backend.Application\\Backend.Application.csproj|c:\\users\\pc\\desktop\\dotnet\\starwars\\backend\\backend.application\\dtos\\speciesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E05F7B-B355-4974-BD40-05B3764671E9}|Backend.Application\\Backend.Application.csproj|solutionrelative:backend.application\\dtos\\speciesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E05F7B-B355-4974-BD40-05B3764671E9}|Backend.Application\\Backend.Application.csproj|c:\\users\\pc\\desktop\\dotnet\\starwars\\backend\\backend.application\\dtos\\starshipdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E05F7B-B355-4974-BD40-05B3764671E9}|Backend.Application\\Backend.Application.csproj|solutionrelative:backend.application\\dtos\\starshipdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E05F7B-B355-4974-BD40-05B3764671E9}|Backend.Application\\Backend.Application.csproj|c:\\users\\pc\\desktop\\dotnet\\starwars\\backend\\backend.application\\dtos\\vehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E05F7B-B355-4974-BD40-05B3764671E9}|Backend.Application\\Backend.Application.csproj|solutionrelative:backend.application\\dtos\\vehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetPersonDetailRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Dotnet\\StarWars\\backend\\Backend.Application\\Features\\Person\\Handlers\\Queries\\GetPersonDetailRequestHandler.cs",
+              "RelativeDocumentMoniker": "Backend.Application\\Features\\Person\\Handlers\\Queries\\GetPersonDetailRequestHandler.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Dotnet\\StarWars\\backend\\Backend.Application\\Features\\Person\\Handlers\\Queries\\GetPersonDetailRequestHandler.cs",
+              "RelativeToolTip": "Backend.Application\\Features\\Person\\Handlers\\Queries\\GetPersonDetailRequestHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T16:22:46.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetPersonListRequest.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Dotnet\\StarWars\\backend\\Backend.Application\\Features\\Person\\Requests\\Queries\\GetPersonListRequest.cs",
+              "RelativeDocumentMoniker": "Backend.Application\\Features\\Person\\Requests\\Queries\\GetPersonListRequest.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Dotnet\\StarWars\\backend\\Backend.Application\\Features\\Person\\Requests\\Queries\\GetPersonListRequest.cs",
+              "RelativeToolTip": "Backend.Application\\Features\\Person\\Requests\\Queries\\GetPersonListRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T15:53:31.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetPersonDetailRequest.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Dotnet\\StarWars\\backend\\Backend.Application\\Features\\Person\\Requests\\Queries\\GetPersonDetailRequest.cs",
+              "RelativeDocumentMoniker": "Backend.Application\\Features\\Person\\Requests\\Queries\\GetPersonDetailRequest.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Dotnet\\StarWars\\backend\\Backend.Application\\Features\\Person\\Requests\\Queries\\GetPersonDetailRequest.cs",
+              "RelativeToolTip": "Backend.Application\\Features\\Person\\Requests\\Queries\\GetPersonDetailRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T16:23:03.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetPersonRequestListHandler.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Dotnet\\StarWars\\backend\\Backend.Application\\Features\\Person\\Handlers\\Queries\\GetPersonRequestListHandler.cs",
+              "RelativeDocumentMoniker": "Backend.Application\\Features\\Person\\Handlers\\Queries\\GetPersonRequestListHandler.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Dotnet\\StarWars\\backend\\Backend.Application\\Features\\Person\\Handlers\\Queries\\GetPersonRequestListHandler.cs",
+              "RelativeToolTip": "Backend.Application\\Features\\Person\\Handlers\\Queries\\GetPersonRequestListHandler.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T15:54:47.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationServicesRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Dotnet\\StarWars\\backend\\Backend.Application\\ApplicationServicesRegistration.cs",
+              "RelativeDocumentMoniker": "Backend.Application\\ApplicationServicesRegistration.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Dotnet\\StarWars\\backend\\Backend.Application\\ApplicationServicesRegistration.cs",
+              "RelativeToolTip": "Backend.Application\\ApplicationServicesRegistration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T08:51:01.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Planet.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Dotnet\\StarWars\\backend\\Backend.Domain\\Planet.cs",
+              "RelativeDocumentMoniker": "Backend.Domain\\Planet.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Dotnet\\StarWars\\backend\\Backend.Domain\\Planet.cs",
+              "RelativeToolTip": "Backend.Domain\\Planet.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T08:39:34.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Dotnet\\StarWars\\backend\\Backend.Application\\Profiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Backend.Application\\Profiles\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Dotnet\\StarWars\\backend\\Backend.Application\\Profiles\\MappingProfile.cs",
+              "RelativeToolTip": "Backend.Application\\Profiles\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T08:39:27.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FilmDto.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Dotnet\\StarWars\\backend\\Backend.Application\\DTOs\\FilmDto.cs",
+              "RelativeDocumentMoniker": "Backend.Application\\DTOs\\FilmDto.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Dotnet\\StarWars\\backend\\Backend.Application\\DTOs\\FilmDto.cs",
+              "RelativeToolTip": "Backend.Application\\DTOs\\FilmDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T08:42:34.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonDto.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Dotnet\\StarWars\\backend\\Backend.Application\\DTOs\\PersonDto.cs",
+              "RelativeDocumentMoniker": "Backend.Application\\DTOs\\PersonDto.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Dotnet\\StarWars\\backend\\Backend.Application\\DTOs\\PersonDto.cs",
+              "RelativeToolTip": "Backend.Application\\DTOs\\PersonDto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T08:41:01.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlanetDto.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Dotnet\\StarWars\\backend\\Backend.Application\\DTOs\\PlanetDto.cs",
+              "RelativeDocumentMoniker": "Backend.Application\\DTOs\\PlanetDto.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Dotnet\\StarWars\\backend\\Backend.Application\\DTOs\\PlanetDto.cs",
+              "RelativeToolTip": "Backend.Application\\DTOs\\PlanetDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T08:40:45.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VehicleDto.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Dotnet\\StarWars\\backend\\Backend.Application\\DTOs\\VehicleDto.cs",
+              "RelativeDocumentMoniker": "Backend.Application\\DTOs\\VehicleDto.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Dotnet\\StarWars\\backend\\Backend.Application\\DTOs\\VehicleDto.cs",
+              "RelativeToolTip": "Backend.Application\\DTOs\\VehicleDto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T08:40:22.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StarshipDto.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Dotnet\\StarWars\\backend\\Backend.Application\\DTOs\\StarshipDto.cs",
+              "RelativeDocumentMoniker": "Backend.Application\\DTOs\\StarshipDto.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Dotnet\\StarWars\\backend\\Backend.Application\\DTOs\\StarshipDto.cs",
+              "RelativeToolTip": "Backend.Application\\DTOs\\StarshipDto.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T08:39:54.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SpeciesDto.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Dotnet\\StarWars\\backend\\Backend.Application\\DTOs\\SpeciesDto.cs",
+              "RelativeDocumentMoniker": "Backend.Application\\DTOs\\SpeciesDto.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Dotnet\\StarWars\\backend\\Backend.Application\\DTOs\\SpeciesDto.cs",
+              "RelativeToolTip": "Backend.Application\\DTOs\\SpeciesDto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T08:39:39.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

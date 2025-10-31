@@ -1,0 +1,12 @@
+C:\Users\pc\Desktop\Dotnet\StarWars\backend\Backend.Domain\bin\Debug\net9.0\Backend.Domain.deps.json
+C:\Users\pc\Desktop\Dotnet\StarWars\backend\Backend.Domain\bin\Debug\net9.0\Backend.Domain.dll
+C:\Users\pc\Desktop\Dotnet\StarWars\backend\Backend.Domain\bin\Debug\net9.0\Backend.Domain.pdb
+C:\Users\pc\Desktop\Dotnet\StarWars\backend\Backend.Domain\obj\Debug\net9.0\Backend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Dotnet\StarWars\backend\Backend.Domain\obj\Debug\net9.0\Backend.Domain.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Dotnet\StarWars\backend\Backend.Domain\obj\Debug\net9.0\Backend.Domain.AssemblyInfo.cs
+C:\Users\pc\Desktop\Dotnet\StarWars\backend\Backend.Domain\obj\Debug\net9.0\Backend.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Dotnet\StarWars\backend\Backend.Domain\obj\Debug\net9.0\Backend.Domain.sourcelink.json
+C:\Users\pc\Desktop\Dotnet\StarWars\backend\Backend.Domain\obj\Debug\net9.0\Backend.Domain.dll
+C:\Users\pc\Desktop\Dotnet\StarWars\backend\Backend.Domain\obj\Debug\net9.0\refint\Backend.Domain.dll
+C:\Users\pc\Desktop\Dotnet\StarWars\backend\Backend.Domain\obj\Debug\net9.0\Backend.Domain.pdb
+C:\Users\pc\Desktop\Dotnet\StarWars\backend\Backend.Domain\obj\Debug\net9.0\ref\Backend.Domain.dll
