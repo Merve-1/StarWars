@@ -1,0 +1,24 @@
+# .NET
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+# Local configuration
+**/appsettings.Development.json
+**/appsettings.Local.json
