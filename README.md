@@ -23,8 +23,6 @@ The backend follows **Clean Architecture**, with the solution organized into the
 * **Domain**: Contains the core business entities, rules, and domain logic. This layer is independent of external frameworks and infrastructure.
 * **Infrastructure**: Contains implementations for external concerns such as data access, third-party API integrations, and other services.
 
-> An architecture diagram will be added here.
-
 <img width="1024" height="1536" alt="arc" src="https://github.com/user-attachments/assets/3d8f24cc-4810-431a-95cc-e11ec67ab468" />
 
 ## Tech Stack
