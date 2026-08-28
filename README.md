@@ -23,7 +23,7 @@ The backend follows **Clean Architecture**, with the solution organized into the
 * **Domain**: Contains the core business entities, rules, and domain logic. This layer is independent of external frameworks and infrastructure.
 * **Infrastructure**: Contains implementations for external concerns such as data access, third-party API integrations, and other services.
 
-<img width="1536" height="1024" alt="arc" src="https://github.com/user-attachments/assets/37a890fc-4f5c-44c8-b447-228cc2f1443f" />
+<img width="1536" height="1024" alt="im" src="https://github.com/user-attachments/assets/12e9e601-526d-441e-aa5d-a6da26c4b0e7" />
 
 ## Tech Stack
 
@@ -72,10 +72,10 @@ StarWars/
 │       └── Backend.Tests/
 │           └── UnitTest1.cs
 │
-├── web/
+├── web/     # Coming soon
 │   └── ...
 │
-├── mobile/
+├── mobile/  # Coming soon  
 │   └── ...
 │
 └── README.md
@@ -150,69 +150,17 @@ The API will start on the configured local development URL.
 
 ## Running the Web Application
 
-Navigate to the Angular project:
-
-```bash
-cd web/swapi-web
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Start the development server:
-
-```bash
-ng serve
-```
-
-Open the application in your browser using the URL displayed by Angular, typically:
-
-```text
-http://localhost:4200
-```
+Coming soon.
 
 ## Running the Mobile Application
 
-Navigate to the Flutter project:
-
-```bash
-cd mobile/swapi_mobile
-```
-
-Install dependencies:
-
-```bash
-flutter pub get
-```
-
-Run the application:
-
-```bash
-flutter run
-```
-
-Make sure an emulator, simulator, or physical device is available before running the application.
+Coming soon.
 
 ## API Integration
 
 The .NET backend is responsible for handling communication between the client applications and SWAPI.
 
 This approach allows the web and mobile applications to use a consistent backend API rather than directly duplicating integration logic.
-
-## Configuration
-
-Configuration details such as API URLs and environment-specific settings should be stored separately for each application.
-
-Examples include:
-
-* Backend application settings
-* Angular environment configuration
-* Flutter environment or application configuration
-
-Sensitive information should not be committed to the repository. Use environment variables or local configuration files where appropriate.
 
 ## API Documentation
 
@@ -272,4 +220,22 @@ Some potential improvements include:
 * Dark mode
 * Additional Star Wars data and features
 
-**Built with .NET 10, Angular 22, Flutter, and SWAPI.**
+## Commit Explanations
+
+This section documents the development process and the reasoning behind the main project changes.
+
+### Introduction
+
+[Introduction — Project Overview, Clean Architecture, and Project Startup](https://www.notion.so/Introduction-3ca7a1b71e41808b9fe2c09d96c407e7?source=copy_link)
+
+### `5b127cd` — feat: add SWAPI client integration
+
+[Commit Explanation — Add SWAPI Client Integration](https://www.notion.so/Commit-feat-add-SWAPI-client-integration-5b127cd-3ca7a1b71e4180efaf5cdfd2eb51d587?source=copy_link)
+
+### `086f375` — refactor: move ISwapiClient to Application, add StarshipDto mapping
+
+[Commit Explanation — Move ISwapiClient to Application and Add StarshipDto Mapping](https://www.notion.so/Commit-refactor-move-ISwapiClient-to-Application-add-StarshipDto-mapping-086f375-3ca7a1b71e418004b07de96533b59211?source=copy_link)
+
+**Built with .NET 10 and SWAPI.**
+
+*Web and mobile applications are planned for future development.*
