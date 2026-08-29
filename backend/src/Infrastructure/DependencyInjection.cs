@@ -1,4 +1,4 @@
-using Infrastructure.Swapi.Models;
+using Application.Interfaces;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
