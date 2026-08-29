@@ -240,6 +240,9 @@ This section documents the development process and the reasoning behind the main
 
 [Commit Explanation — Add Starship Endpoints and SWAPI Integration](https://app.notion.com/p/Commit-feat-add-starship-endpoints-and-SWAPI-integration-7cee0bd-3ca7a1b71e4180208495cdb5b47a007a?source=copy_link)
 
+### `086d653` — feat: add pre-flight check pipeline using Chain of Responsibility & fix: correct SWAPI JSON property
+
+[Commit Explanation — feat: add pre-flight check pipeline using Chain of Responsibility & fix: correct SWAPI JSON property](https://app.notion.com/p/Commit-feat-add-pre-flight-check-pipeline-using-Chain-of-Responsibility-fix-correct-SWAPI-JSON-3cb7a1b71e4180ce9636e125628936ea?source=copy_link)
 
 **Built with .NET 10 and SWAPI.**
 
