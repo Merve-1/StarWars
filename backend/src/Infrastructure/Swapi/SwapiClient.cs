@@ -1,4 +1,13 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Net.Http;
 using System.Net.Http.Json;
+using System.Threading;
+using System.Threading.Tasks;
+using Application.Dtos;
+using Application.Interfaces;
+
 using Infrastructure.Swapi.Models;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
@@ -18,7 +27,9 @@ public class SwapiClient : ISwapiClient
         _logger = logger;
     }
 
-    public async Task<SwapiStarshipResponse?> GetStarshipByIdAsync(string id, CancellationToken ct = default)
+
+   
+    public async Task<StarshipDto?> GetStarshipByIdAsync(string id, CancellationToken ct = default)
     {
         var response = await _httpClient.GetAsync($"starships/{id}", ct);
 
@@ -26,15 +37,20 @@ public class SwapiClient : ISwapiClient
             return null;
 
         response.EnsureSuccessStatusCode();
-        return await response.Content.ReadFromJsonAsync<SwapiStarshipResponse>(cancellationToken: ct);
+        var raw = await response.Content.ReadFromJsonAsync<SwapiStarshipResponse>(cancellationToken: ct);
+
+        return raw?.Result is null ? null : SwapiStarshipMapper.ToDto(raw.Result);
     }
-    public async Task<IReadOnlyList<SwapiStarshipResult>> GetStarshipsAsync(CancellationToken ct = default)
+
+    public async Task<IReadOnlyList<StarshipDto>> GetStarshipsAsync(CancellationToken ct = default)
     {
         var response = await _httpClient.GetAsync("starships", ct);
         response.EnsureSuccessStatusCode();
 
         var payload = await response.Content.ReadFromJsonAsync<SwapiStarshipListResponse>(cancellationToken: ct);
-        return payload?.Results ?? [];
+        var results = payload?.Results ?? [];
+
+        return results.Select(SwapiStarshipMapper.ToDto).ToList();
     }
 }
 

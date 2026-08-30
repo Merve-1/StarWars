@@ -1,4 +1,6 @@
-﻿namespace Backend.Tests;
+﻿using Xunit;
+
+namespace Backend.Tests;
 
 public class UnitTest1
 {
