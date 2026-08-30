@@ -244,6 +244,10 @@ This section documents the development process and the reasoning behind the main
 
 [Commit Explanation — feat: add pre-flight check pipeline using Chain of Responsibility & fix: correct SWAPI JSON property](https://app.notion.com/p/Commit-feat-add-pre-flight-check-pipeline-using-Chain-of-Responsibility-fix-correct-SWAPI-JSON-3cb7a1b71e4180ce9636e125628936ea?source=copy_link)
 
+### `17570d5` — feat: add currency conversion strategies using Strategy pattern & angular api setup 
+
+[Commit Explanation — feat: add currency conversion strategies using Strategy pattern & angular api setup](https://app.notion.com/p/Commit-feat-add-currency-conversion-strategies-using-Strategy-pattern-angular-api-setup-17570-3cc7a1b71e41809b88a2fa1ce42f8992?source=copy_link)
+
 **Built with .NET 10 and SWAPI.**
 
 *Web and mobile applications are planned for future development.*
